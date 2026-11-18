@@ -3,6 +3,9 @@
 ==============================
 
 Text summarizing your project.
+What does your code do?
+What are the main features and functionalities?
+What outputs does the code generate?
 
 ## Project Organization
 ------------
