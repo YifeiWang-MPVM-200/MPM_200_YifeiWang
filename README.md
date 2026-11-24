@@ -3,11 +3,8 @@
 ==============================
 
 Text summarizing your project.
-What does your code do?
 This R notebook analyzes hummingbird rehabilitation records to identify which variables are most strongly associated with whether a bird was released or died.
-What are the main features and functionalities?
 It compares release and death proportions across rehabilitation centers and examines how outcomes vary by species group. The code plots annual admissions from 1991 to 2016 and investigates the sharp increase in 2013, which coincided with the addition of records from Malibu. It also examines how recorded deaths vary by month to identify when deaths were most common.
-What outputs does the code generate?
 The notebook generates summary tables and plots showing rehabilitation outcomes and changes in admissions over time.
 
 ## Project Organization
